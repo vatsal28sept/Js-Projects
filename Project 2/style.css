@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin-left: 40%;
+}
+.height-input-field{
+    margin-top: 15px;
+    margin-left: 40%;
+}
+p{
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.weight-input-field{
+    margin-top: 15px;
+    margin-left: 40%;
+}
+.calculate{
+    margin-left: 40%;
+}
+.result{
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
